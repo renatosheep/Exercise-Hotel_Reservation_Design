@@ -1,0 +1,13 @@
+.showroom {
+    background: cyan;
+    width: 60%;
+}
+
+.showroom img{
+    width: 100%;
+    min-height: 400px; 
+    background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+
+}

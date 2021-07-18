@@ -1,0 +1,20 @@
+.panel{
+    color: #fff;
+    background: #222;
+    width: 40%;
+    padding: 20px;
+}
+
+.panel h3{
+    font-weight: 400;
+    font-size: 16px;
+    border-bottom: 1px solid #333;
+    margin: 30px 0 0;
+}
+
+.panel p{
+    color: #8e44ad;
+	font-weight: 500;
+	font-size: 13px;
+	margin: 3px 0;
+}

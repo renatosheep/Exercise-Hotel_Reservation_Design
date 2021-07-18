@@ -1,0 +1,32 @@
+body{
+	height: 100vh;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	
+}
+
+#root{
+	height: 100vh;
+	width: 100vw;
+	background-image: url('https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.content{
+	display: flex;
+	width: 800px;
+	height: 400px;
+	align-items: stretch;
+    justify-content: center;
+
+}
