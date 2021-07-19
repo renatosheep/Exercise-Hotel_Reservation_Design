@@ -1,5 +1,5 @@
 .showroom {
-    background: cyan;
+    background: #222;
     width: 60%;
 }
 
@@ -9,5 +9,6 @@
     background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
+    clip-path: polygon(8% 0%, 100% 0%, 100% 100%, 0% 100%);
 
 }
